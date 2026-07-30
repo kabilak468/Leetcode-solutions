@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kabilak468/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kabilak468/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kabilak468/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/kabilak468/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2288-apply-discount-to-prices](https://github.com/kabilak468/Leetcode-solutions/tree/master/2288-apply-discount-to-prices) |
 ## String Matching
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kabilak468/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/kabilak468/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kabilak468/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kabilak468/Leetcode-solutions/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -101,8 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kabilak468/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kabilak468/Leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kabilak468/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kabilak468/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/kabilak468/Leetcode-solutions/tree/master/0338-counting-bits) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kabilak468/Leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
