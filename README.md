@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kabilak468/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kabilak468/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/kabilak468/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kabilak468/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kabilak468/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/kabilak468/Leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kabilak468/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kabilak468/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kabilak468/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/kabilak468/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kabilak468/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kabilak468/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kabilak468/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/kabilak468/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kabilak468/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/kabilak468/Leetcode-solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kabilak468/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kabilak468/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kabilak468/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/kabilak468/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kabilak468/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kabilak468/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kabilak468/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
@@ -109,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kabilak468/Leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kabilak468/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kabilak468/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/kabilak468/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/kabilak468/Leetcode-solutions/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
