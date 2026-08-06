@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kabilak468/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kabilak468/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/kabilak468/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kabilak468/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kabilak468/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kabilak468/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/kabilak468/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/kabilak468/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/kabilak468/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [2288-apply-discount-to-prices](https://github.com/kabilak468/Leetcode-solutions/tree/master/2288-apply-discount-to-prices) |
