@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kabilak468/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kabilak468/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kabilak468/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/kabilak468/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kabilak468/Leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kabilak468/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kabilak468/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
